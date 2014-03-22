@@ -1,0 +1,27 @@
+{
+  "name": "Pacman",
+  "version": "0.0.0",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-jshint": "~0.7.2",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-uglify": "~0.2.7",
+    "grunt-cli": "^0.1.13"
+  },
+  "description": "Pacman Game in Javascript",
+  "main": "Gruntfile.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vdua/pacman.git"
+  },
+  "author": "vdua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vdua/pacman/issues"
+  },
+  "homepage": "https://github.com/vdua/pacman"
+}

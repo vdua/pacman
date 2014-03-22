@@ -1,0 +1,15 @@
+.container {
+    width:100%;
+    padding:50px;
+    box-sizing: border-box;
+}
+canvas {
+    margin:auto;
+    box-sizing: border-box;
+    padding:10px;
+    border:solid 2px black;
+    display:block;
+}
+canvas:focus {
+    outline:dashed 2px red;
+}
